@@ -1,2 +1,2 @@
 # rtools
-React pack tools
+React pack tools: 自己搭建的React脚手架
